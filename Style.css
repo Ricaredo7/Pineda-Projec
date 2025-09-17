@@ -1,5 +1,50 @@
 h1{
-   background-attachment: Gray
-   
+  color: rgba(132, 19, 238, 0.384);
+  ;} 
+body
+h1{
+   background-color: rgba(35, 63, 54, 0.699);
+}
+h1{
+   color: slategrey;
+}
+
+body {
+   background-image:url("freedom.webp");
+}
+h1{margin: 20px; margin-left: 20px; background-color: powderblue ;}
+h1{
+   font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif, 
+}
+
+a:link{
+   color: blue;
+}
+
+a:visted{
+   color: rgba(15, 214, 164, 0.507);
+}
+a:hover{
+   color: rgb(7, 75, 107);  
+}
+a:active{
+   color: rgba(0, 255, 136, 0.493);
+
 
 }
+   
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
